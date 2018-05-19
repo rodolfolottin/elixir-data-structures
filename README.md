@@ -1,1 +1,1 @@
-# elixir-data-structures
+# studies
